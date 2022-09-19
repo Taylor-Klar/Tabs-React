@@ -5,3 +5,4 @@ The goal of this assignement was to: develop a tabs component that will take in 
 <br><br>
 Preview:
 <br><br>
+<img src="https://github.com/Taylor-Klar/Tabs-React/blob/main/Tabs.png">
